@@ -1,3 +1,4 @@
+
 # 🎨 AI_Capstone : Deep-Image-Colorization-Keras
 
 > **Keras 및 딥러닝 기반의 흑백 이미지 자동 컬러 복원(Colorization) 프로젝트**
@@ -38,7 +39,7 @@
 ---
 
 ## 📈 결과 및 자료 (Sample Results)
-
+<img width="541" height="740" alt="image" src="https://github.com/user-attachments/assets/5ead3dce-a6bb-4bde-a1c1-48ed07c1f51d" />
 
 
 ---
