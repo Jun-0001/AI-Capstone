@@ -37,9 +37,9 @@
 
 ---
 
-## 📈 결과 예시 (Sample Results)
-*(이곳에 코드 실행 결과로 나온 '흑백 이미지 vs 컬러 복원 이미지' 비교 샷을 넣어주세요)*
-`![Colorization Result](./docs/sample_result.png)`
+## 📈 결과 및 자료 (Sample Results)
+
+
 
 ---
 
