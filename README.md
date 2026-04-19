@@ -44,10 +44,9 @@
 ---
 
 ## 📂 프로젝트 자산 (Project Assets)
-- [📓 Image Colorization 상세 코드 (.ipynb)]
-- (./keras_colorization_final_sr_v1.ipynb)
-- (./prediction_for_new_test_set.ipynb)
-- (./prediction_for_validation_set.ipynb)
+- [📓 Image Colorization 메인 코드 (.ipynb)](./keras_colorization_final_sr_v1.ipynb)
+- [📓 Image Colorization 최종 결과 코드 (.ipynb)](./prediction_for_new_test_set.ipynb)
+- [📓 Image Colorization 성능 검토 코드 (.ipynb)](./prediction_for_validation_set.ipynb)
 - *이미지 로드, LAB 변환, 모델 설계 및 학습 전 과정 포함*
 
 ---
