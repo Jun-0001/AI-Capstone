@@ -38,7 +38,7 @@
 ---
 
 ## 📈 결과 및 자료 (Sample Results)
-![Image](https://github.com/user-attachments/assets/2ca0bc6b-11ca-44cc-9bc8-7b6067d6c9da)
+<img width="3024" height="4032" alt="AI_Capstone_포스터 HEIC" src="https://github.com/user-attachments/assets/9fb1165c-59d9-4b9f-a199-632c4a018c0b" />
 
 
 ---
