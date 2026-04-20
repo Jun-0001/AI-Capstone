@@ -42,9 +42,7 @@
 ---
 
 ## 📈 결과 및 자료 (Sample Results)
-<img width="541" height="740" alt="image" src="https://github.com/user-attachments/assets/5ead3dce-a6bb-4bde-a1c1-48ed07c1f51d" />
-
-<img width="541" height="740" alt="image" src="https://github.com/user-attachments/assets/545acfdd-9a7b-42ed-b1f9-720abd50584d" />
+![AI_Capstone_포스터](https://github.com/user-attachments/assets/cdc3cac4-68db-4c26-b41d-eb8a06e47a26)
 
 
 ---
